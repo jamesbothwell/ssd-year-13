@@ -1,0 +1,1 @@
+You have two lists of components of prokaryotic cells or eukaryotic cells,You must match a description from the right to the correct list on the left,You must drag the pictures to make a selection,You are not allowed to change your choice after dragging,Only when you have dragged the final image will the question finish,The question will change to the next at this point

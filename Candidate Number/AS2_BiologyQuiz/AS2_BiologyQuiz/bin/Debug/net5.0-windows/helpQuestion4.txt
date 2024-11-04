@@ -1,0 +1,1 @@
+You must select a component that belongs to the cell type,For each question you are allowed 1 try and one final answer,If you get the question right first try then you can move to the next cell,If not then you have a second go,If you however fail this you will not score and will be forced to move on,The question finishes when you check the fungal cell type

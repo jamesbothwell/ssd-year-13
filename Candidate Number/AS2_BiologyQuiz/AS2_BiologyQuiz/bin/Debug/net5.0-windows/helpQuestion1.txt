@@ -1,0 +1,1 @@
+You will have 60 seconds to complete this question,Whether you have answered all questions or not does not matter here,Each question has the option of true or false,When you select one option both are disabled,The option you select becomes green and the other option becomes grey,You can answer the questions in any order

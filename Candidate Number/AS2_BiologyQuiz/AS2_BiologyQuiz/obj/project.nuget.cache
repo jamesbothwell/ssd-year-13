@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MI+CPLdnqmjkCOZ0giY+bft0VNyzrinHfaVDawQmO+pis7OYU65PUCMpxJI2ByJh621HivbR13AUK76FEri71A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\james\\OneDrive - Queen's University Belfast\\Personal\\School\\SSD\\SSD Year 13\\Candidate Number\\AS2_BiologyQuiz\\AS2_BiologyQuiz\\AS2_BiologyQuiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1 @@
+Make sure you choose a username longer than 8 characters,Make sure you choose a password longer than 8 characters,You will be made to retype your password to help prevent forgotten passwords,Choose a hint that is meaningful to you in case of a forgotten password,Make sure you choose an avatar and hit register,If you already have an account hit the “login here” button

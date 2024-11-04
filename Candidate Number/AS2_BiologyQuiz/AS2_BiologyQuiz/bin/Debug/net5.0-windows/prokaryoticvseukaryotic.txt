@@ -1,0 +1,2 @@
+images/capsule.jpg,images/flagellum.jpg,images/pili.jpg,images/plasmid.jpg,images/nucleoid.jpg,images/ribosomes.jpg
+images/cytoplasm.jpg,images/cytoskeleton.jpg,images/ER.jpg,images/lysosomes.jpg,images/golgi.jpg,images/vesicles.jpg,images/nucleus.jpg,images/mitochondria.jpg

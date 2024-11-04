@@ -1,0 +1,19 @@
+Saturated means a molecule contains a C-C bond,True
+Haemoglobin is a fibrous protein,False
+Guanine pairs with thymine,True
+Enzymes increase activation energy,False
+Temperature increases kinetic energy in enzymes,True
+Cyanide is a reversible inhibitor,False
+Enzymes are substrate specific,True
+Prokaryotic cells contain ribosomes,True
+For a Transmission Electron Microscope a specimen has to be alive,False
+Chloroplasts contain DNA,False
+Mitochondria contain ribosomes,True
+A solution always has a negative water potential,True
+Water potential is measured in pascals,False
+The hypertonic solution is weaker,False
+In a hypotonic solution animal cells become crenated,False
+Fluorouracil inhibits microtubules,False
+Humans are described as diploid,True
+Prophase is the first stage of mitosis,True
+Meiosis produces haploid cells,True

@@ -1,0 +1,1 @@
+You can choose to logout or take the quiz here,You can take the quiz multiple times,You can log out if you have already taken a quiz,It is advised you complete at least one quiz,Your username and avatar are displayed at the top,You can only return to this screen after completing the quiz

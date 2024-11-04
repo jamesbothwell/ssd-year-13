@@ -1,0 +1,1 @@
+If you are not already a user hit the “Create Account” button,If you are a user enter a username and password,Make sure your username and password are correct,If you forget your password hit the hint button after typing a username,This will only display a hint if the username exists as an account,Click login when your details are correct
